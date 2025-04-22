@@ -12,7 +12,7 @@ import pandas as pd
 st.header('st.write')
 
 #example 1
-st.write("Hello, *World!* : sunglasses:")
+st.write("Hello, *World!* : sunglasses1:")
 
 st.write(1234)
 
